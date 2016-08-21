@@ -1,0 +1,16 @@
+C:\Users\300878960\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\PC\Desktop\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\PC\Desktop\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\PC\Desktop\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\PC\Desktop\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\PC\Desktop\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\PC\Desktop\New folder\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\PC\Desktop\New folder\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\PC\Desktop\New folder\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\PC\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe.config
+C:\Users\PC\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.exe
+C:\Users\PC\Desktop\Assignment4\Assignment4\bin\Debug\Assignment4.pdb
+C:\Users\PC\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.exe
+C:\Users\PC\Desktop\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
